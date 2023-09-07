@@ -26,6 +26,7 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapRazorPages();
+/*
 app.MapGet("/products", (context) =>
 {
     var products = app.Services.GetService<JsonFileProductService>().GetProducts();
@@ -33,5 +34,6 @@ app.MapGet("/products", (context) =>
 
     return context.Response.WriteAsync(json);
 });
+*/
 
 app.Run();
