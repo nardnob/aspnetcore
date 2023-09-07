@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\dev\\aspnetcore\\NardnobCrafts\\NardnobCrafts\\wwwroot\\data\\products.json",
+      "PackagePath": "staticwebassets\\data\\products.json"
+    },
+    {
       "Id": "C:\\dev\\aspnetcore\\NardnobCrafts\\NardnobCrafts\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

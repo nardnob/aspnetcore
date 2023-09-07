@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oEwvRxw11iSKbQrKJ386CTKjTUXuTvxqFJ7Avb/tWl8=",
+  "Hash": "tm88IQVd1XvvRGSUGFwOag21jwiAnEZfE32ZV76ZKQw=",
   "Source": "NardnobCrafts",
   "BasePath": "_content/NardnobCrafts",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\dev\\aspnetcore\\NardnobCrafts\\NardnobCrafts\\wwwroot\\data\\products.json",
+      "SourceId": "NardnobCrafts",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\aspnetcore\\NardnobCrafts\\NardnobCrafts\\wwwroot\\",
+      "BasePath": "_content/NardnobCrafts",
+      "RelativePath": "data/products.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\products.json"
     },
     {
       "Identity": "C:\\dev\\aspnetcore\\NardnobCrafts\\NardnobCrafts\\wwwroot\\favicon.ico",
