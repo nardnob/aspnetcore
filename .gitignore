@@ -1,0 +1,44 @@
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+
+# Visual Studio Code
+.vscode
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2015
+.vs/
+/NardnobCrafts/NardnobCrafts/bin/Debug/net7.0/NardnobCrafts.dll
+/NardnobCrafts/NardnobCrafts/bin/Debug/net7.0/NardnobCrafts.pdb
+/NardnobCrafts/NardnobCrafts/obj/Debug/net7.0/NardnobCrafts.dll
+/NardnobCrafts/NardnobCrafts/obj/Debug/net7.0/NardnobCrafts.pdb
+/NardnobCrafts/.vs/NardnobCrafts/v17/.suo
+/NardnobCrafts/NardnobCrafts/obj/Debug/net7.0/ref/NardnobCrafts.dll
+/NardnobCrafts/NardnobCrafts/obj/Debug/net7.0/refint/NardnobCrafts.dll
+/NardnobCrafts/NardnobCrafts/obj/Debug/net7.0/NardnobCrafts.csproj.CoreCompileInputs.cache
+/NardnobCrafts/NardnobCrafts/NardnobCrafts.csproj.user
+/NardnobCrafts/.vs/NardnobCrafts/DesignTimeBuild/.dtbcache.v2

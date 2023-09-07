@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NardnobCrafts.props" />
+</Project>
