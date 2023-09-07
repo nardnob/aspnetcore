@@ -32,3 +32,8 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
+/NardnobCrafts/NardnobCrafts/bin/Debug/net7.0/NardnobCrafts.dll
+/NardnobCrafts/NardnobCrafts/bin/Debug/net7.0/NardnobCrafts.pdb
+/NardnobCrafts/NardnobCrafts/obj/Debug/net7.0/NardnobCrafts.dll
+/NardnobCrafts/NardnobCrafts/obj/Debug/net7.0/NardnobCrafts.pdb
+/NardnobCrafts/.vs/NardnobCrafts/v17/.suo
