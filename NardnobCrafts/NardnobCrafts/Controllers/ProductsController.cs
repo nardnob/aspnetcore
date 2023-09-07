@@ -21,5 +21,16 @@ namespace NardnobCrafts.Controllers
         {
             return ProductService.GetProducts();
         }
+
+        //[HttpPost]
+        [Route("Rate")]
+        [HttpGet]
+        public ActionResult Get(
+            [FromQuery] string productId,
+            [FromQuery] int rating)
+        {
+            ProductService.AddRating(productId, rating);
+            return Ok();
+        }
     }
 }
