@@ -6,10 +6,18 @@
 
 <div class="text-center">
     <h1 class="display-4">nardnob Crafts</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
 
-@foreach (var product in Model.Products)
-{
-    <h2>@product.Title</h2>
-}
+<div class="row card-columns">
+    @foreach (var product in Model.Products)
+    {
+        <div class="col-xs-12 col-lg-4">
+            <div class="card mt-4">
+                <div class="card-img" style="background-image: url('@product.Image');"></div>
+                <div class="card-body">
+                    <h5 class="card-title">@product.Title</h5>
+                </div>
+            </div>
+        </div>
+    }
+</div>
