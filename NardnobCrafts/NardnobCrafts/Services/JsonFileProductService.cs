@@ -3,9 +3,9 @@ using System.Text.Json;
 
 namespace NardnobCrafts.Services
 {
-    public class JsonFileProductsService
+    public class JsonFileProductService
     {
-        public JsonFileProductsService(IWebHostEnvironment webHostEnvironment)
+        public JsonFileProductService(IWebHostEnvironment webHostEnvironment)
         {
             WebHostEnvironment = webHostEnvironment;
         }
