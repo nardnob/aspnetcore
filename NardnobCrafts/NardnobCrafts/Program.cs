@@ -26,6 +26,8 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapRazorPages();
+app.MapControllers();
+
 /*
 app.MapGet("/products", (context) =>
 {
